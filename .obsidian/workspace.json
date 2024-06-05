@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "517d0bd1db8d3e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8ee2850e376be3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0205b545317351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & Stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c70a98b7708d754",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8108f34f309e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98848cec77d810e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a986dce9e7287100",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a1d410110177dd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0219b2c40d485378",
+    "type": "split",
+    "children": [
+      {
+        "id": "8afea58c8c0b3036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98fe72c5a1dc2620",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git & Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2abcda82e6367dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git & Stuff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8b69dc0722b56c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95b72792c7e16340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git & Stuff.md"
+              }
+            }
+          },
+          {
+            "id": "bcbc3dc3d533fade",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "8b0205b545317351",
+  "lastOpenFiles": [
+    "2024-05-31.md",
+    "2024-06-03.md",
+    "Untitled.md",
+    "Git & Stuff.md",
+    "Downloads.md",
+    "2024-05-07.md",
+    "2024-05-29.md",
+    "2024-05-22.md",
+    "2024-05-24.md",
+    "2024-05-27.md",
+    "2024-05-28.md",
+    "2024-05-30.md",
+    "2024-05-26.md",
+    "2024-05-08.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

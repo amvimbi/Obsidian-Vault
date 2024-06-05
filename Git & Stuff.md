@@ -1,0 +1,8 @@
+- To ensure conistency, clone an continue with the .git folder
+- `git status --ignored`
+- `git status -u` for untracked files
+- `git add .`  to add all files not on .gitignore
+- `git remove rm -r --cached` to remove recursively all files on .gitignore
+- Check line 
+- `touch [filename]`
+- 
