@@ -5,4 +5,5 @@
 - `git remove rm -r --cached` to remove recursively all files on .gitignore
 - Check line 
 - `touch [filename]`
+- `rm [filename]`
 - 

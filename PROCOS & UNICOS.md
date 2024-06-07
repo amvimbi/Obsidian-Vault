@@ -1,0 +1,2 @@
+- Where components don't follow the variable name convention used by UAB in the deck.dka.xml file, these can be rectified using notepad++ to amend the deck file as well as the link.jml files
+- 
