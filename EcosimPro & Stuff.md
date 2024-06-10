@@ -1,3 +1,3 @@
 - After changing component names, the .cgf.xml and state_init.txt files can be edited in not notepad++ for plots and  to recover state saving.
 - If post processing is turn on in the experiment settings, we can run two experiments of one partition concurrently.
-- 
+- Instances of components can have the same name in a schematic
