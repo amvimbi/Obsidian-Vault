@@ -2,7 +2,7 @@
 ### 5. **Scalability Strategies**
    - **Vertical Scaling:** Evaluate the potential for scaling up, such as upgrading hardware to more powerful components (e.g., more CPU, memory).
    - **Horizontal Scaling:** Assess the feasibility of scaling out, such as adding more instances or nodes to distribute the load.
-   - **Partitioning:** Consider strategies for partitioning data and workloads, such as sharding databases or splitting services.
+   - **Partitioning:** Consider strategies for partitioning data and workloads, such as shading databases or splitting services.
 
 ### 6. **Architecture Review**
    - **Modular Design:** Ensure the system architecture is modular and loosely coupled to facilitate scaling individual components.

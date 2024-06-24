@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00fe63268d0e2372",
+        "id": "b8c25d959f5cd3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "dcbd442647d4a6de",
+            "id": "bff0de940744b0bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c0421847953de0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redundancy & Stuff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fc8f434fbe6d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scalability & Stuff.md",
+                "file": "2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scalability & Stuff.md",
+                "file": "2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scalability & Stuff.md",
+                "file": "2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scalability & Stuff.md"
+                "file": "2024-06-21.md"
               }
             }
           },
@@ -167,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,28 +158,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "89fc8f434fbe6d04",
+  "active": "bff0de940744b0bf",
   "lastOpenFiles": [
-    "Redundancy & Stuff.md",
-    "Scalability & Stuff.md",
-    "2024-05-22.md",
-    "2024-05-24.md",
-    "2024-05-27.md",
-    "2024-05-29.md",
-    "2024-05-31.md",
+    "2024-06-19.md",
+    "2024-06-21.md",
     "2024-06-03.md",
     "2024-06-06.md",
+    "2024-06-11.md",
+    "2024-06-12.md",
+    "2024-06-14.md",
+    "2024-06-17.md",
+    "2024-06-18.md",
     "2024-06-07.md",
-    "Downloads.md",
-    "EcosimPro & Stuff.md",
+    "2024-05-22.md",
+    "Redundancy & Stuff.md",
     "Cards.canvas",
-    "Git & Stuff.md",
+    "Scalability & Stuff.md",
     "PROCOS & UNICOS.md",
-    "2024-05-07.md",
+    "MyWebsite.md",
+    "Git & Stuff.md",
+    "EcosimPro & Stuff.md",
+    "Downloads.md",
+    "2024-05-31.md",
+    "2024-05-29.md",
     "2024-05-28.md",
+    "2024-05-27.md",
+    "2024-05-24.md",
+    "2024-05-07.md",
     "2024-05-30.md",
     "2024-05-26.md",
-    "2024-05-08.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
