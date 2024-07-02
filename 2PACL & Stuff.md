@@ -1,0 +1,1 @@
+- [ ] We can empty the system faster than we can fill it up. This is because we empty using the pump discharge pressure and fill it using only the return line pressure.
