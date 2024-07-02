@@ -10,3 +10,7 @@
 
 # PAD & Git
 
+- `mkdir -p /mnt/dq/Obsidian` 
+- `mount -t ios null /mnt/dq/Obsidian`
+- `cd /mnt/dq/Obsidian/`
+- 
