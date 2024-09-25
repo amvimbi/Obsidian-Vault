@@ -9,6 +9,17 @@
 - `git log [branchname]` shows history
 - `git remote -v` View existing remotes
 - `git remote set-url origin https://github.com/user/repo2.git` Set remote
+- `git mv` to rename file.
+- `git reset HEAD <file>` Unstage a staged file
+- `git fetch <repo>`
+- `pb git://github.com/paulboone/ticgit.git` You can now use the string pd in lieu of the URL
+- `git remote show [remote-name]` Inspect remote
+- `git remote rename` rename remote
+- `git tag` List tags
+- `git tag -l 'v1.4.2.*'` Search tags (Supports regex)
+- `git tag -a v1.4 -m 'my version 1.4'` Annotated tag
+-  `git config --global alias.unstage 'reset HEAD --'` You can use aliases to make commands clearer.
+
 
 # PAD & Git
 
