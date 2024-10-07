@@ -1,0 +1,11 @@
+{
+  "editor:clear-formatting": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
+}

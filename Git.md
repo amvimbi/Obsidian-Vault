@@ -19,6 +19,8 @@
 - `git tag -l 'v1.4.2.*'` Search tags (Supports regex)
 - `git tag -a v1.4 -m 'my version 1.4'` Annotated tag
 -  `git config --global alias.unstage 'reset HEAD --'` You can use aliases to make commands clearer.
+- `git checkout -b [branch-name]` Switch to a new branch name. This is a shorthand for `git branch [branch-name]` followed by `git checkout  [branch-name]` 
+- 
 
 
 # PAD & Git
