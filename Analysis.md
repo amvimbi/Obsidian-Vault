@@ -1,0 +1,3 @@
+- [ ] Interpret the results.
+- [ ] Compare the experimental values with simulation values.
+- [ ] Qualify and explain discrepancies.

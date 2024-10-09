@@ -3,7 +3,7 @@
 | ---------- | ------------- | ---------------------------------------------------------------------------------------------------------------- | ------- |
 | 13/02/2024 | 22:54         | [Turbo boost](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/800)                              | 801     |
 | 08/02/2024 | 09:18         | [S2PACL Startup](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/800)                           | 800     |
-| 15/02/2024 | 12:00 - 15:30 | S2PACL Startup Encore                                                                                            | NONE    |
+| 15/02/2024 | 12:00 - 15:30 | 2PACL Startup                                                                                                    | NONE    |
 | 30/10/2023 | 18:55         | [Swap Test](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/780)                                | 780     |
 | 01/11/2023 | 19:19         | [P9 swap test: encore](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/781)                     | 781     |
 | 28/07/2023 | 09:55         | [DEMO Cast heater tuning](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/764)                  | 764     |
