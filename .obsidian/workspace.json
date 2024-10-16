@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Accumulator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "Accumulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math.md",
+                "file": "Accumulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math.md"
+                "file": "Accumulator.md"
               }
             }
           },
@@ -159,21 +159,25 @@
   },
   "active": "ae4c44878d54c814",
   "lastOpenFiles": [
+    "2024-10-16.md",
+    "Accumulator.md",
     "2024-10-14.md",
+    "Git.md",
+    "Julia.md",
+    "Math.md",
     "2024-09-26.md",
+    "Demo Meeting.md",
+    "EcosimPro.md",
+    "Experimental Parameters.md",
+    "MyWebsite.md",
     "2024-10-15.md",
+    "Analysis.md",
     "Redundancy.md",
     "Repositories.md",
     "Simulation Observations.md",
     "Validation Data.md",
     "Swap Cards.canvas",
-    "Experimental Parameters.md",
-    "Analysis.md",
-    "Math.md",
-    "Julia.md",
-    "EcosimPro.md",
     "P1 parameters.md",
-    "MyWebsite.md",
     "PROCOS & UNICOS.md",
     "Scalability.md",
     "2024-10-11.md",
@@ -182,10 +186,6 @@
     "PipeSizes.md",
     "2024-08-27.md",
     "2024-09-18.md",
-    "Demo Meeting.md",
-    "2024-10-09.md",
-    "2PACL & Stuff.md",
-    "2024-05-07.md",
     "Cards.canvas",
     "Untitled.canvas",
     "Untitled",

@@ -20,10 +20,16 @@
 - `git tag -a v1.4 -m 'my version 1.4'` Annotated tag
 -  `git config --global alias.unstage 'reset HEAD --'` You can use aliases to make commands clearer.
 - `git checkout -b [branch-name]` Switch to a new branch name. This is a shorthand for `git branch [branch-name]` followed by `git checkout  [branch-name]` 
-- 
+- `git mergetool` Launch the merge tool
+- `git branch` List branches and marks the checked out branch with '\*'
+- `git branch -v` List branch and show the last commit on each branch
+- `git branch --merged` To see which branches are already merged into the branch you’re on. `--unmerged` also available
+- `git stash` To store changes you don't wanna commit before changing branches
+- `git stash list` To list stashed changes
+- `git stash apply stash@{[number]}` Apply a specific stash
+- `git stash show -p | git apply -R` Applies stash in revers to unapply the stash
 
-
-# PAD & Git
+# PAD Git
 
 - `mkdir -p /mnt/dq/Obsidian` 
 - `mount -t ios null /mnt/dq/Obsidian`
