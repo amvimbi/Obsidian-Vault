@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7517fdd59f185ce",
+        "id": "e3eb7a128e45adb6",
         "type": "tabs",
         "children": [
           {
-            "id": "ae4c44878d54c814",
+            "id": "cc477678e5a3ff03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accumulator.md",
+                "file": "2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accumulator.md",
+                "file": "2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accumulator.md",
+                "file": "2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accumulator.md"
+                "file": "2024-10-14.md"
               }
             }
           },
@@ -157,35 +157,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ae4c44878d54c814",
+  "active": "cc477678e5a3ff03",
   "lastOpenFiles": [
     "2024-10-16.md",
     "Accumulator.md",
-    "2024-10-14.md",
-    "Git.md",
-    "Julia.md",
-    "Math.md",
-    "2024-09-26.md",
-    "Demo Meeting.md",
+    "Solver.md",
+    "Scalability.md",
+    "PROCOS & UNICOS.md",
     "EcosimPro.md",
     "Experimental Parameters.md",
+    "Demo Meeting.md",
     "MyWebsite.md",
-    "2024-10-15.md",
+    "Julia.md",
+    "State Files.md",
+    "Validation Data.md",
+    "Git.md",
     "Analysis.md",
+    "2024-08-27.md",
+    "Math.md",
+    "2024-10-14.md",
+    "2024-09-18.md",
+    "Simulation Observations.md",
+    "P1 parameters.md",
+    "2024-09-26.md",
+    "2024-10-15.md",
     "Redundancy.md",
     "Repositories.md",
-    "Simulation Observations.md",
-    "Validation Data.md",
     "Swap Cards.canvas",
-    "P1 parameters.md",
-    "PROCOS & UNICOS.md",
-    "Scalability.md",
     "2024-10-11.md",
     "2024-10-10.md",
-    "State Files.md",
-    "PipeSizes.md",
-    "2024-08-27.md",
-    "2024-09-18.md",
     "Cards.canvas",
     "Untitled.canvas",
     "Untitled",
