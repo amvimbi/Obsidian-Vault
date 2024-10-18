@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Accumulator.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Accumulator"
+            }
+          },
+          {
+            "id": "fd19759eef87012b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Outcomes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Outcomes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Project Outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project Outcomes"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Project Outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Outcomes"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-14.md"
-              }
+                "file": "Project Outcomes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Outcomes"
             }
           },
           {
@@ -134,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -157,35 +190,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "cc477678e5a3ff03",
+  "active": "fd19759eef87012b",
   "lastOpenFiles": [
-    "2024-10-16.md",
     "Accumulator.md",
-    "Solver.md",
-    "Scalability.md",
+    "Project Outcomes.md",
+    "2024-10-14.md",
     "PROCOS & UNICOS.md",
+    "MyWebsite.md",
+    "2024-10-16.md",
+    "2024-09-26.md",
+    "Demo Meeting.md",
     "EcosimPro.md",
     "Experimental Parameters.md",
-    "Demo Meeting.md",
-    "MyWebsite.md",
+    "Git.md",
     "Julia.md",
+    "PipeSizes.md",
+    "Redundancy.md",
+    "Simulation Observations.md",
+    "Swap Cards.canvas",
+    "2024-10-17.md",
+    "Solver.md",
+    "Scalability.md",
     "State Files.md",
     "Validation Data.md",
-    "Git.md",
     "Analysis.md",
     "2024-08-27.md",
     "Math.md",
-    "2024-10-14.md",
     "2024-09-18.md",
-    "Simulation Observations.md",
     "P1 parameters.md",
-    "2024-09-26.md",
     "2024-10-15.md",
-    "Redundancy.md",
-    "Repositories.md",
-    "Swap Cards.canvas",
-    "2024-10-11.md",
-    "2024-10-10.md",
     "Cards.canvas",
     "Untitled.canvas",
     "Untitled",

@@ -9,7 +9,7 @@ Below is the accumulator model as we have it. The level can be calculated from t
 
 We can rearrange the energy conservation equation thus;
 
-## $\frac{dt}{dh}​= \frac{\dot{m}_{in}\dot{h}_{in}​−\dot{m}_{out}\dot{​h}_{out} + q}{V\left( ρ+h\frac{∂\rho}{∂h​​​}|_{P} \right)} + \frac{V\left(1−h​\frac{∂\rho}{∂P}|_{h}​​​\right)}{V\left( ρ+h\frac{∂\rho}{∂h​​​}|_{P} \right)}\frac{dP}{dt}​$
+## $\frac{dh}{dt}​= \frac{\dot{m}_{in}\dot{h}_{in}​−\dot{m}_{out}\dot{​h}_{out} + q}{V\left( ρ+h\frac{∂\rho}{∂h​​​}|_{P} \right)} + \frac{V\left(1−h​\frac{∂\rho}{∂P}|_{h}​​​\right)}{V\left( ρ+h\frac{∂\rho}{∂h​​​}|_{P} \right)}\frac{dP}{dt}​$
 
 
 ## $\frac{dt}{dh}​= \frac{1}{V\left( ρ+h\frac{∂h}{∂ρ​​​}|_{P} \right)}\left(\dot{m}_{in}\dot{h}_{in}​−\dot{m}_{out}\dot{​h}_{out} + {V\left(1−h​\frac{∂P}{∂ρ}|_{h}​​​\right)}\frac{dP}{dt} +Q\right)​$
