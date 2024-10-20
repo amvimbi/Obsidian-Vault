@@ -28,7 +28,7 @@
 - `git stash list` To list stashed changes
 - `git stash apply stash@{[number]}` Apply a specific stash
 - `git stash show -p | git apply -R` Applies stash in revers to unapply the stash
-
+- `git stash drop stash@{[number]}` To delete stash
 # PAD Git
 
 - `mkdir -p /mnt/dq/Obsidian` 
