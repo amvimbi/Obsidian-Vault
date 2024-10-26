@@ -8,6 +8,13 @@
 	
 - **state_init_495b** : The end of liquefy T2PACL P1
 
-## Demoredundancy
+# Demoredundancy
 
 - 
+# SimpleSwap
+
+The entire simulation interval.
+
+`REL_ERROR = 1e-05 -- transient solver relative tolerance`
+`ABS_ERROR = 1e-03 -- transient solver absolute tolerance`
+`TOLERANCE = 1e-05 -- steady solver relative tolerance`
