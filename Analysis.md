@@ -1,3 +1,5 @@
 - [ ] Interpret the results.
 - [ ] Compare the experimental values with simulation values.
 - [ ] Qualify and explain discrepancies.
+- [ ] Explore pwlesh frequency analysis
+- [ ] Correct the Nyquist Criterion

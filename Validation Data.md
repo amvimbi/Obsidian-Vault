@@ -1,7 +1,8 @@
 
 | Date       | Time          | Test                                                                                                             | Elog ID |
 | ---------- | ------------- | ---------------------------------------------------------------------------------------------------------------- | ------- |
-| 13/02/2024 | 22:54         | [Turbo boost](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/800)                              | 801     |
+| 27/02/2024 | 14:50-15:50   | [BPR Capillary Test](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/803)                       | 803     |
+| 13/02/2024 | 22:54         | [Turbo boost](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/801)                              | 801     |
 | 08/02/2024 | 09:18         | [S2PACL Startup](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/800)                           | 800     |
 | 15/02/2024 | 12:00 - 15:30 | 2PACL Startup                                                                                                    | NONE    |
 | 30/10/2023 | 18:55         | [Swap Test](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/780)                                | 780     |
