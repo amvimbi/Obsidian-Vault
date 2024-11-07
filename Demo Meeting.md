@@ -12,3 +12,12 @@
 - Unit 3 in Previssin (To be shipped to CMS)
 - Non-negligible magnetic fields found u the Cavern close to the plants
 - Ungrounded components eventually become magnetic (Loic0)
+## 2024-10-31
+
+- [ ] Organize a call upon reception of key components
+- [ ] Conduct a leak test for the accu (Decay test)
+- [ ]   A sniffer that uses a mixture of H2 and N2 more effective than CO2
+- [ ] Surface storage to have flanges for the HX, for maintainability
+- [ ] Oblong holes used to win alignment margin (Opposite on either ends)
+- [ ] The surface storage needs to be certified by external body
+- [ ]
