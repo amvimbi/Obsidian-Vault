@@ -18,4 +18,5 @@
 | 22/11/2022 | 18:23         | [Power cycle tests -40°C](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/681)                  | 681     |
 | 24/11/2024 | 13:40-16:10   | Power Cycles Tests -40                                                                                           | NONE    |
 | 07/07/2023 |               | [Plant 1 to Plant 9 Handover](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/751)              | 751     |
-|            |               |                                                                                                                  |         |
+| 07/10/2023 |               | [Cast X Heater Test](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/753)                       | 753     |
+| 26/07/2023 |               | [Cast X Heater Test Encore](https://elog-co2-oper.web.cern.ch/Testing+and+commissioning+eLog/762)                | 762     |
