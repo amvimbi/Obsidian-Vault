@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-04.md",
+                "file": "2024-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04"
+              "title": "2024-11-10"
+            }
+          },
+          {
+            "id": "23c6de87b6a6767d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-16"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-10.md",
+                "file": "Validation Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-10"
+              "title": "Validation Data"
             }
           }
         ],
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-09.md"
+                "file": "2024-11-10.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-09"
+              "title": "Outline of 2024-11-10"
             }
           },
           {
@@ -190,35 +204,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fef4e4adce242e5b",
+  "active": "23c6de87b6a6767d",
   "lastOpenFiles": [
-    "2024-11-09.md",
-    "2024-11-08.md",
+    "2024-11-13.md",
     "2024-11-10.md",
+    "2024-11-09.md",
+    "2024-11-16.md",
+    "2024-11-08.md",
+    "2024-11-07.md",
+    "2024-11-15.md",
+    "2024-10-29.md",
+    "2024-07-16.md",
+    "2024-07-19.md",
+    "2024-08-27.md",
+    "2024-09-18.md",
+    "2024-10-14.md",
+    "2024-10-16.md",
+    "2024-10-20.md",
+    "2024-10-28.md",
+    "2024-10-31.md",
+    "2024-11-03.md",
+    "2024-11-06.md",
     "2024-11-04.md",
     "Validation Data.md",
-    "2024-11-06.md",
-    "2024-11-07.md",
     "2024-07-11.md",
     "Accumulator.md",
     "State Files.md",
     "Notepad++.md",
-    "2024-11-03.md",
     "Demo Meeting.md",
-    "Timber.md",
-    "2024-10-31.md",
-    "2024-10-29.md",
-    "Project Outcomes.md",
-    "MyWebsite.md",
-    "PipeSizes.md",
-    "P1 parameters.md",
-    "PROCOS & UNICOS.md",
-    "Redundancy.md",
-    "Repositories.md",
-    "Scalability.md",
-    "Simulation Observations.md",
     "Swap Cards.canvas",
-    "Analysis.md",
     "Cards.canvas",
     "Untitled.canvas",
     "Untitled",
