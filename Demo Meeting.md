@@ -20,4 +20,10 @@
 - [ ] Surface storage to have flanges for the HX, for maintainability
 - [ ] Oblong holes used to win alignment margin (Opposite on either ends)
 - [ ] The surface storage needs to be certified by external body
-- [ ]
+
+## 2024-11-21
+
+- [ ] Accumulator did not have any issues. (Yann)
+- [ ] No additional acquisition will be procured, unless it becomes a bottleneck  
+- [ ] Yann found no leak in the accumulator
+- [ ] The Swep HX leaks from joints (could be bracing or welding)
