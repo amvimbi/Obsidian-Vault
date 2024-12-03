@@ -1,0 +1,4 @@
+- [ ] Ask about implicit definitions for the PID in MATLAB
+- [ ] In Demo, the takeover was done by DP1016 vs DPC2022 (Because the dP for NV1016 could have a variable dP)
+- [ ] The PID Object, tacking can be set using a LUT
+- [ ] Dani about the pump discharge logic

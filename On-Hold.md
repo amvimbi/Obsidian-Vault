@@ -1,0 +1,3 @@
+- [ ] Continue with the momentum Eq
+- [ ] Change the Fit to Viren's function
+- [ ] Add that to a valve
