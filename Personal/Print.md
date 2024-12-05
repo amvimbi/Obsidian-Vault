@@ -1,3 +1,4 @@
 - [ ] Update Pictures without compression
 - [ ] Save as 
 - [ ] Tools >> High Fidelity
+- [ ]  Replace pixelated images afterwards
