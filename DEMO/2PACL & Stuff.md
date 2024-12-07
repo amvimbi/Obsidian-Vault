@@ -1,1 +1,2 @@
 - We can empty the system faster than we can fill it up. This is because we empty using the pump discharge pressure and fill it using only the return line pressure.
+- For Cv sizing, the valve shuld be sized so that when it is phi_low open, it give the lower bount of controllability Cv and when it is phi_upper  open, it give the upper bound of the Cvs which lie in the controllability range,.

@@ -27,3 +27,9 @@
 - [ ] No additional acquisition will be procured, unless it becomes a bottleneck  
 - [ ] Yann found no leak in the accumulator
 - [ ] The Swep HX leaks from joints (could be bracing or welding)
+
+## 2024-12-05
+
+- [ ] One accu will go back to Sweden because if a fault & One is on the way
+- [ ] P6 to only be installed next year
+- [ ] 

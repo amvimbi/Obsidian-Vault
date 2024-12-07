@@ -22,3 +22,8 @@
 ## 2024-12-04
 
 - [ ] Ask Dani about the PLC hierarchy - speak to this in the description of Demo
+
+## 2024-12-07
+
+- [ ] Ask if Ph are independent
+- [ ] 

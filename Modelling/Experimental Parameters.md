@@ -1,4 +1,6 @@
-## From State File
+## Experiment Parameters
+
+### From State File
 
 | CINT  | ABS_ERROR | REL_ERROR | Tol    | Observation                | Crash point    | NOK type               |
 | ----- | --------- | --------- | ------ | -------------------------- | -------------- | ---------------------- |
@@ -33,7 +35,7 @@
 | 2.08  | 1e-6      | 1e-4      | 0.4e-2 | Crashed                    | 12250.58       |                        |
 | 1.03  | 1e-6      | 1e-6      | 1e-6   |                            |                |                        |
  *dP crack = 0.00013 & cv = 30.1*
-## From Start 
+### From Start 
 
 | CINT | ABS_ERROR | REL_ERROR | Tol  | Observation | Crash point (s) | NOK type          |
 | ---- | --------- | --------- | ---- | ----------- | --------------- | ----------------- |
@@ -53,3 +55,21 @@
 |      |           |           |      |             |                 |                   |
 
 *dP crack = 0.00013 & cv = 30.1*
+
+## Schematic Parameters
+
+### Demo Redundancy
+
+
+**Swap & Re-Takeover**
+
+|                 | 30/10/2023 | 01/11/2023 |
+| --------------- | ---------- | ---------- |
+| Retakeover Time | 8848       | 9293.38    |
+
+
+### Plant 1
+
+Startup
+
+DPC2022 PossR till 7879 in sim
