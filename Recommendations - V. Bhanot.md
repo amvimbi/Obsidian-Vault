@@ -3,6 +3,10 @@
 - [x] Conduct literature review that builds up to the question you intend to address
 - [x] Identify three needs? (be explicit)
 - [ ] Discuss in more detail, the Test Facility
-- [ ] Discuss the post processing pipeline fully.
+- [x] Discuss the post processing pipeline fully.
 - [ ] Include steps taken for reproducibility
 - [x] Discuss the results close to the results
+- [ ] Add a section on VC
+- [ ] Explain more clearly for someone who doesn't know
+- [ ] Make the plots leaner
+- [ ] 

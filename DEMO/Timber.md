@@ -1,5 +1,6 @@
 - [ ] Group By Timestamp
 - [ ] Timescale the data in fixed intervals
 - [ ] Interval Value : 1
-- [ ] Interval : SECONDS
+- [ ] Interval : SECONDS/MINUTES
 - [ ] Algorithm : INTERPOLATE
+- [ ] Time zone: LOCAL

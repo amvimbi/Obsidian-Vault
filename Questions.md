@@ -18,12 +18,29 @@
 - [x] LEWA LGD3 6kW each? Nominal Flow 1.5?
 - [x] Exporting values as an object
 
-
 ## 2024-12-04
 
 - [ ] Ask Dani about the PLC hierarchy - speak to this in the description of Demo
-
 ## 2024-12-07
 
-- [ ] Ask if Ph are independent
-- [ ] 
+- [x] Ask if Ph are independent (Ph)
+- [x] Ask about the DAE
+- [x] Pump discharge warmer by Detector cold (startup)
+- [ ] Demo in SHC and colder at the inlet (Our HX is probably not modeled correctly TBS)
+- [x] Ask about gain scheduling code
+- [x] Ask about the Update of AMS
+	- [x] Was capacity improvement needed for Velo
+- [x] Pump may go supercritical for high pressurization
+- [x] Pressure Drop before evaporators
+- [x] Rangeability
+- [x] The chiller HTC
+## 2024-12-10
+
+- [x] Confirm the units for getPartials
+- [x] Ask about the units if dPdh
+
+DTC can control in NFT Control
+
+## 2024-12-18
+
+- [ ] Why was there an imbalance in the Hxs

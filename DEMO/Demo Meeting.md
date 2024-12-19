@@ -32,4 +32,9 @@
 
 - [ ] One accu will go back to Sweden because if a fault & One is on the way
 - [ ] P6 to only be installed next year
-- [ ] 
+
+## 2024-12-12
+
+- [ ] For ATLAS no instrumentation box/ CMS box
+- [ ] Jannik to do the test
+- [ ] Piloting  an pneumatic valve with a three way valve
