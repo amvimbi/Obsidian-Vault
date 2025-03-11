@@ -1,0 +1,16 @@
+- [ ] Define a Modbus driver
+- [ ] For Schneider Modbus Redirection is mandatory
+- [ ] Default port is 502
+- [ ] Keep the driver similar to the address
+- [ ] Go to the server and the upload in the import folder (EP_DT_FS/(EP_DT_FS/Data/)
+- [ ] CS0h
+- [ ] Convention CS0h_P1_Cv1001
+- [ ] Regenerated the WinCCOA didn't affect the addresses.
+- [ ] Put the PCO in master for WinCCOA organization
+- [ ] Select always.
+- [ ] PVSS was not happy with defining MODBUS port first
+- [ ] Deleted entry\
+- [ ] DS IP Address is SCADA IP
+- [ ] Install all version in Libset
+- [ ] Expert name overwrites the object names.
+- [ ] Noto Sans is recorremened

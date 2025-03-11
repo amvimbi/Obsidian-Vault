@@ -19,3 +19,11 @@ Buckholt et al. Richter mass conservation
 ## $\frac{dt}{dh} ​= \frac{1}{M}\left(\dot{m}_{in}\left(\dot{h}_{in}​−h\right)+\dot{m}_{out}\left(\dot{​h}_{out}-h\right) + V\frac{dt}{dP} + Q\right)$
 
 
+## For finding variation in dhldh
+
+The corner cases are;
+
+- Hin = 113kJ/kg, Q in is 5kW. This corresponds to stepping from ~10 Bar, the density was 104.
+- Hin = 200kJ/kg, Q in is 5kW. This corresponds to stepping from ~35 Bar, the density was 104.
+- Hin = 200kJ/kg, Q in is 1kW. This corresponds to stepping from ~35 Bar, the density was 707.
+- Hin = 113kJ/kg, Q in is 5kW. This corresponds to stepping from ~10 Bar, the density was 707.

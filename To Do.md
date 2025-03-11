@@ -1,0 +1,6 @@
+- [ ] Use parallel nodes and off load the modes.
+- [ ] Use the integration flag to wait.
+- [ ] Check if I can do some hyperthreading
+- [ ] Put DAE solver on a GPU (using CUDA)
+- [ ] Email EcosimPro
+- [ ] Use AI ?? to change from CPP?
