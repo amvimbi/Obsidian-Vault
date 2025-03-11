@@ -44,3 +44,12 @@ DTC can control in NFT Control
 ## 2024-12-18
 
 - [ ] Why was there an imbalance in the Hxs
+
+## 2024-01-26
+
+- [ ] The massflow equation: The units of $Cv$ don't have a good physical interpretation.
+
+## 2024-01-26
+
+- [ ] The valve CV5x4?, does it server as a expansion or mass flow control: The dP is set by the compressor. The Valve still expands to more or lest the same point just at different mass flows.
+- [ ] 

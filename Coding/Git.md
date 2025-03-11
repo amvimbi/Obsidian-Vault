@@ -29,6 +29,8 @@
 - `git stash apply stash@{[number]}` Apply a specific stash
 - `git stash show -p | git apply -R` Applies stash in revers to unapply the stash
 - `git stash drop stash@{[number]}` To delete stash
+- `git commit --amend -m` amend an unpushed commit
+- `git push -o merge_request.create` create merge request
 # PAD Git
 
 - `mkdir -p /mnt/dq/Obsidian` 
