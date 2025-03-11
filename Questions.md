@@ -10,7 +10,7 @@
 ## 2024-12-04
 
 - [ ] Effective V?
-- [ ] Ask about CERN supervision?
+- [x] Ask about CERN supervision?
 
 - [x] Demo spends longer time in step 2
 - [x] ATMS used a radiator, the 2PACL introduced an R744 - this increases capacity?
@@ -20,7 +20,7 @@
 
 ## 2024-12-04
 
-- [ ] Ask Dani about the PLC hierarchy - speak to this in the description of Demo
+- [x] Ask Dani about the PLC hierarchy - speak to this in the description of Demo
 ## 2024-12-07
 
 - [x] Ask if Ph are independent (Ph)
@@ -47,9 +47,10 @@ DTC can control in NFT Control
 
 ## 2024-01-26
 
-- [ ] The massflow equation: The units of $Cv$ don't have a good physical interpretation.
+- [x] The massflow equation: The units of $Cv$ don't have a good physical interpretation.
 
 ## 2024-01-26
 
-- [ ] The valve CV5x4?, does it server as a expansion or mass flow control: The dP is set by the compressor. The Valve still expands to more or lest the same point just at different mass flows.
-- [ ] 
+- [x] The valve CV5x4?, does it server as a expansion or mass flow control: The dP is set by the compressor. The Valve still expands to more or lest the same point just at different mass flows.
+
+- [ ] The chiller seems not to be coping with the $S0$ load.

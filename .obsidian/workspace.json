@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e3eb7a128e45adb6",
+        "id": "651cd13959d8b857",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8bc85c9116f8f0",
+            "id": "8c5706d13b7000d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROCOS/SCADA Config.md",
+                "file": "Daily Checkbox/2024-07-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCADA Config"
+              "title": "2024-07-12"
+            }
+          }
+        ]
+      },
+      {
+        "id": "032afb0422d00a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063adedc00776d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIMELINE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIMELINE"
             }
           }
         ]
@@ -176,35 +196,36 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7a8bc85c9116f8f0",
+  "active": "8c5706d13b7000d3",
   "lastOpenFiles": [
-    "Modelling/To Do.md",
-    "DEMO/Commissioning.md",
-    "Daily Checkbox/2024-12-02.md",
-    "Daily Checkbox/2024-05-07.md",
-    "2025-03-06.md",
-    "PROCOS/SCADA Config.md",
-    "Recommendations - V. Bhanot.md",
-    "Questions.md",
-    "On-Hold.md",
-    "PROCOS/Servers.md",
-    "2025-02-07.md",
-    "DEMO/PROCOS & UNICOS.md",
+    "TIMELINE.md",
+    "Daily Checkbox/2024-07-12.md",
+    "Daily Checkbox/2024-07-16.md",
+    "Daily Checkbox/2024-07-19.md",
+    "Daily Checkbox/2024-08-27.md",
+    "Daily Checkbox/2024-09-18.md",
+    "Daily Checkbox/2024-09-26.md",
+    "Daily Checkbox/2024-10-14.md",
+    "Daily Checkbox/2024-10-20.md",
+    "Daily Checkbox/2024-10-22.md",
+    "Daily Checkbox/2024-10-28.md",
+    "Daily Checkbox/2024-10-29.md",
+    "Daily Checkbox/2024-10-31.md",
+    "Daily Checkbox/2024-11-03.md",
+    "Daily Checkbox/2024-11-04.md",
+    "Daily Checkbox/2024-11-06.md",
+    "Daily Checkbox/2024-11-07.md",
+    "Daily Checkbox/2024-11-08.md",
+    "Daily Checkbox/2024-11-09.md",
+    "Daily Checkbox/2024-11-10.md",
+    "Daily Checkbox/2024-11-13.md",
+    "Daily Checkbox/2024-11-16.md",
+    "Daily Checkbox/2024-11-21.md",
+    "Daily Checkbox/2024-11-22.md",
+    "Daily Checkbox/2024-11-24.md",
+    "Daily Checkbox/2024-11-25.md",
+    "Update with Viren",
     "PROCOS",
-    "Coding/Git.md",
-    "2025-03-11.md",
-    "2025-03-03.md",
-    "2025-03-01.md",
-    "2025-02-17.md",
-    "2025-02-25.md",
-    "2025-02-13.md",
-    "2025-02-12.md",
-    "2025-01-25.md",
-    "2025-02-03.md",
-    "2025-01-23.md",
-    "2024-12-19.md",
-    "2025-01-06.md",
-    "2024-12-30.md",
     "Cards.canvas",
     "Modelling/Swap Cards.canvas",
     "Personal",
