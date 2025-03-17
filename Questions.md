@@ -36,21 +36,36 @@
 - [x] The chiller HTC
 ## 2024-12-10
 
-- [x] Confirm the units for getPartials
-- [x] Ask about the units if dPdh
+- [x] Confirm the units for get Partials
+- [x] Ask about the units if d$P/dh$
 
 DTC can control in NFT Control
 
 ## 2024-12-18
 
-- [ ] Why was there an imbalance in the Hxs
+- [ ] Why was there an imbalance in the HXs
 
 ## 2024-01-26
 
-- [x] The massflow equation: The units of $Cv$ don't have a good physical interpretation.
+- [x] The mass flow equation: The units of $Cv$ don't have a good physical interpretation.
 
 ## 2024-01-26
 
 - [x] The valve CV5x4?, does it server as a expansion or mass flow control: The dP is set by the compressor. The Valve still expands to more or lest the same point just at different mass flows.
+- [x] The chiller seems not to be coping with the $S0$ load. (valve was not properly handling reverse flow)
+## 2025-03-11
 
-- [ ] The chiller seems not to be coping with the $S0$ load.
+- [x] Plant 9 chiller?
+- [ ] The correlation $\frac{dP}{dz}$
+- [ ] Boundaries? Raul
+
+## 2025-05-14
+
+- [ ] Why not remove TC4080 and only have STC4080 with parameters updated for the switch between heater temperature control and the Accumulator $T_{sat}$?
+- [ ] IF-THEN-ELSE statements don't have discontinuity handling and we need these for Transition Logic.
+- [ ] We have algebraic loops due to controller connections to the muxes.
+- [ ] Use the PARALLEL keyword
+
+## 2025-05-17
+
+- [ ] 

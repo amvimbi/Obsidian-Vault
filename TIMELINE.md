@@ -1,6 +1,6 @@
 ## Proof of Concept I: Level Control (Fully Simulated PID)(18/09/2023 - 02/11/2023)
 
-- [ ] PROCOS for level control with PID in sim.
+- [x] PROCOS for level control with PID in sim.
 
 
 ## Library Cleanup (May 2024 - Jun 2024)
@@ -27,7 +27,7 @@
 
 ## Swap Simulation & Re-takeover simulation (24/07/2024-23/09/2024)
 
-- [ ] Pressure drop calibration
+- [x] Pressure drop calibration
 - [ ] Transients (pump first order model)
 - [ ] [[#Momentum Equation]]
 ## Demoredundancy_deck
@@ -58,7 +58,7 @@
 ## Proof of Concept II: Flow Control (PID Container) (07/02/2025 - Present )
 
 - [x] Setting the VM & adding the PLC to the TN
-- [ ] Generating Basic Flow control Project
+- [x] Generating Basic Flow control Project
 
 ## GL Simulations & Paper (24/04/2024 - 07/08/2024)
 
